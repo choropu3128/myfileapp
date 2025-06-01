@@ -1,6 +1,2 @@
 fastapi
 uvicorn
-python-multipart
-qrcode
-Pillow
-sqlite3-bro
